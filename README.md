@@ -90,19 +90,6 @@ A MongoDB ORM for easier database interactions in Node.js or Next.js API routes.
 **Firebase Cloud Messaging (FCM):**
 For sending real-time push notifications to users about eco-events, new tips, or goal progress. It integrates easily with Next.js through Firebase SDK.
 
-## APIs & Integrations
-**OpenWeather API:**
-
-To provide real-time weather data (e.g., air quality, temperature) that can be displayed on the user’s dashboard to help them make informed decisions for sustainable living.
-
-**Carbon Footprint APIs:**
-
-You can integrate carbon footprint calculators through available APIs to help users track and reduce their environmental impact.
-
-**Google Maps API:**
-
-For location-based features, such as finding nearby eco-events or locations to recycle or compost.
-
 ## Analytics & Monitoring
 
 **Google Analytics:**
