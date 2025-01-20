@@ -174,3 +174,7 @@ Encourage Consistent Progress: By providing continuous feedback, the platform ke
 
 Foster a Community of Support: With its built-in community features, Eco-Sustain taps into the power of peer influence and collaboration, encouraging users to join forces in their pursuit of a more sustainable lifestyle.
 
+## SOLUTION:
+
+
+
