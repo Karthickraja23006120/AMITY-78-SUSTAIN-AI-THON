@@ -201,3 +201,12 @@ Promotes a shift towards environmentally responsible consumption.
 ## Vision:
 EcoSustain aims to increase awareness, accountability, and action by providing users with tools and knowledge to reduce their ecological footprint. It encourages individuals and organizations to take responsibility for their environmental impact and work together towards shared sustainability goals.
 
+## CARBON CALCULATOR MODEL OUTPUT:
+
+![image](https://github.com/user-attachments/assets/b0b03f70-b694-4b07-8b59-a3dc2de659aa)
+![image](https://github.com/user-attachments/assets/1af59ce4-1a1c-4001-a17c-6c754aec1ba9)
+![image](https://github.com/user-attachments/assets/e54030cd-65be-47b7-a34e-1fdae9a28c3f)
+
+
+
+
