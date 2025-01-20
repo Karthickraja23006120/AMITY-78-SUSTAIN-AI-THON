@@ -7,7 +7,7 @@
 
 ## CONCEPT MAP:
 
-<img width="3910" alt="Concept map (Community)" src="https://github.com/user-attachments/assets/45f91690-0c7b-40cc-82b8-4ca6598fdf86" />
+<img width="3436" alt="Concept_map_(Community) 1" src="https://github.com/user-attachments/assets/a90219e0-69ac-436e-a9b8-ece0a039bee4" />
 
 
 ## TECH STACK:
