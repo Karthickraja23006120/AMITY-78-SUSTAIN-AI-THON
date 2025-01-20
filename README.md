@@ -206,6 +206,26 @@ EcoSustain aims to increase awareness, accountability, and action by providing u
 ![image](https://github.com/user-attachments/assets/1af59ce4-1a1c-4001-a17c-6c754aec1ba9)
 ![image](https://github.com/user-attachments/assets/e54030cd-65be-47b7-a34e-1fdae9a28c3f)
 
+## OUTPUT:
 
+**HOME SCREEN PAGE**
+![image](https://github.com/user-attachments/assets/60b5c38d-13d7-477c-809b-68c3b2b68d35)
 
+**DASHBOARD PAGE**
+![image](https://github.com/user-attachments/assets/f45b6996-6bed-4069-a45a-42f415354d50)
+
+**CARBON CALCULATOR PAGE**
+![image](https://github.com/user-attachments/assets/dc2a5c2c-fb8d-4aa0-8089-2d0debe1e1e8)
+
+**ECO TIPS PAGE**
+![image](https://github.com/user-attachments/assets/f50476b4-a981-43e0-955c-2a8fd1e95220)
+
+**COMMUNITY PAGE**
+![image](https://github.com/user-attachments/assets/d19eb88a-9ae2-41e3-b36e-1257490ef60a)
+
+**ECO SHOP PAGE**
+![image](https://github.com/user-attachments/assets/0f1d574c-954f-4127-bd4b-1667d920ddfc)
+
+**PROFILE PAGE**
+![image](https://github.com/user-attachments/assets/382ee9c8-6753-4b1c-92af-a395a2cc3a64)
 
