@@ -1,6 +1,17 @@
 # AMITY-78-SUSTAIN-AI-THON
+# ECO_SUSTAIN
+
 ## BRIEF INTRO:
 **EcoSustain** is a web application designed to inspire and empower individuals to adopt sustainable practices. It features a Carbon Footprint Calculator to measure and reduce environmental impact, a section with practical eco-friendly tips, a community platform for discussions, and an eco-shop offering sustainable products. The goal is to make sustainability accessible and actionable for everyone.
+
+## PROBLEM STATEMENT:
+
+**Environmental Challenges:**
+    The planet faces significant environmental issues, including climate change, pollution, and biodiversity loss.
+
+**Individual Impact:**
+    Many individuals and organizations lack the tools and knowledge to effectively monitor and reduce their environmental footprint.
+
 ## WORKFLOW DIAGRAM:
 
 ![WhatsApp Image 2025-01-20 at 19 59 26_6fc8d914](https://github.com/user-attachments/assets/3fa47f9f-d1b9-442a-b4ed-fc28d71f3c5f)
