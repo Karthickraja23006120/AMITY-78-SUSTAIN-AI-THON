@@ -179,6 +179,7 @@ The novelty of the Eco-Sustain platform lies in its comprehensive approach to su
 EcoSustain is an innovative platform dedicated to promoting and supporting environmental sustainability initiatives. It is designed to empower individuals and organizations to take meaningful actions toward reducing their ecological impact and adopting sustainable lifestyles.
 
 **Key Features:**
+
 **1.Carbon Footprint Calculator:**
 
 A simple yet powerful tool that helps users measure their personal or organizational environmental impact.
