@@ -201,6 +201,3 @@ Promotes a shift towards environmentally responsible consumption.
 ## Vision:
 EcoSustain aims to increase awareness, accountability, and action by providing users with tools and knowledge to reduce their ecological footprint. It encourages individuals and organizations to take responsibility for their environmental impact and work together towards shared sustainability goals.
 
-
-
-
