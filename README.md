@@ -131,7 +131,7 @@ If you need more advanced CI/CD workflows (e.g., testing, build steps), GitHub A
 
 ## Novelty:
 
-Comprehensive Platform
+## Comprehensive Platform
 Eco-Sustain is more than just a tool to measure environmental impact; it integrates multiple aspects of sustainability into one platform, offering a holistic experience. This combination serves various needs:
 
 Impact Tracking: The platform monitors and measures the user's environmental footprint, including data on carbon emissions, water consumption, energy usage, and waste generation. For example, a user can track how much carbon they’ve saved by switching to electric vehicles or how much water they've conserved by adopting water-saving techniques.
@@ -142,7 +142,7 @@ Community Support: Users can engage with others who share similar sustainability
 
 The unique novelty here is the platform’s ability to combine impact tracking, education, and community support in one space, addressing both individual and collective sustainability challenges.
 
-User-Centric Design
+## User-Centric Design
 Eco-Sustain’s design is focused on ensuring that the platform is easy to use for people from all walks of life, including those with varying levels of technical expertise.
 
 Intuitive Interface: The platform is designed with user-friendliness in mind, offering a simple, clean layout that’s easy to navigate. Whether a user is new to sustainability or a seasoned eco-warrior, the interface would guide them seamlessly through the process of setting goals, tracking impact, and learning new eco-friendly habits.
@@ -153,7 +153,7 @@ Accessibility: The design ensures accessibility for people with disabilities, su
 
 This user-centric design empowers users, making sustainability achievable, regardless of their previous knowledge or expertise in environmental matters.
 
-Real-Time Feedback
+## Real-Time Feedback
 Real-time feedback is one of the most engaging features of Eco-Sustain, offering instant insights on how users' actions are affecting the environment.
 
 Immediate Insights: As users make sustainable choices (e.g., using public transport instead of driving, switching to a plant-based diet), the platform provides instant feedback on the impact of their actions. For example, "You’ve reduced your carbon footprint by 20% this month!" or "You've saved 50 liters of water this week!"
@@ -164,7 +164,7 @@ Data-Driven Insights: The platform could provide deeper insights, such as trends
 
 Continuous Improvement: By offering real-time data on user choices, the platform helps users continuously refine their behavior. For example, if a user reduces their waste, Eco-Sustain could suggest more efficient recycling or composting tips, helping them do even more for the environment.
 
-Novelty of the Concept
+## Novelty of the Concept
 The novelty of the Eco-Sustain platform lies in its comprehensive approach to sustainability, its user-friendly design, and its ability to provide real-time, actionable feedback. These elements work together to:
 
 Empower Users: Users not only learn about sustainability but are actively engaged in making sustainable choices with the help of real-time feedback and tailored recommendations.
