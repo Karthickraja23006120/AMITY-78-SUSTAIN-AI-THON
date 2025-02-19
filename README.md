@@ -1,4 +1,4 @@
-# AMITY-78-SUSTAIN-AI-THON
+# AMITY
 # ECO-SUSTAIN
 ## WEB APP LINK:https://p8ucojofojojfmj4.vercel.app/
 ## MODEL LINK:https://colab.research.google.com/drive/14WuPgkyup8REHOMs7gGyCr2-fN0aXTHI?usp=sharing
